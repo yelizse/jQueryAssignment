@@ -1,0 +1,30 @@
+
+
+p{
+  padding:20px;
+  margin-left:3%;
+  margin-right:3%;
+}
+
+.question {
+  width: 250px;
+  border: 2px solid #111111;
+  background: #c7d7e6;
+  clear:left;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.blue {background: blue;}
+
+#underline{
+  text-decoration: underline;
+}
+
+#some-div {
+  width: 250px;
+  border: 2px solid #111111;
+  background: green;
+  font-weight: bold;
+  font-family: sans-serif;
+}
